@@ -1,0 +1,1 @@
+const Hero = ()=>{return<h1>heroPage</h1>}
